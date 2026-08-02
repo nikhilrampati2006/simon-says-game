@@ -6,8 +6,6 @@ A browser-based Simon Says memory game built using **HTML, CSS, and JavaScript**
 
 👉 https://nikhilrampati2006.github.io/simon-says-game/
 
-*(Add this link only after your GitHub Pages site is live.)*
-
 ## ✨ Features
 
 - Random color sequence generation
