@@ -1,2 +1,37 @@
-# Simon-Says-Game
-A browser-based Simon Says memory game built with HTML, CSS, and JavaScript. Features random color sequences, level progression, user input validation, score tracking, and game reset functionality.
+# Simon Says Game
+
+A browser-based Simon Says memory game built using HTML, CSS, and JavaScript. Players must remember and repeat an increasingly long sequence of colors to advance through the levels.
+
+## Features
+
+- Random color sequence generation
+- Progressive difficulty with each level
+- Interactive button animations
+- User input validation
+- Score tracking
+- Automatic game reset on incorrect input
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- DOM Manipulation
+- Event Handling
+
+## How to Play
+
+1. Press any key to start the game.
+2. Watch the highlighted color sequence.
+3. Repeat the sequence by clicking the buttons.
+4. Each new level adds one more color.
+5. The game ends when you click the wrong button.
+
+## Project Structure
+
+```
+├── index.html
+├── style.css
+├── app.js
+└── README.md
+```
